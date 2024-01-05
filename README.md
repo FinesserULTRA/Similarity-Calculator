@@ -75,5 +75,5 @@ The program generates a CSV file (final_result.csv) containing the original data
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, feel free to open an issue or create a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](LICENSE).
 
